@@ -1,0 +1,8 @@
+{
+  "name": "TILEORA - Timeless Tiles. Beautiful Spaces.",
+  "description": "Architectural tile showroom and digital transformation platform featuring interactive 3D tile visuals, curated porcelain and marble collections, room recommendations, tile calculator, quotation engine, and marketing intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
